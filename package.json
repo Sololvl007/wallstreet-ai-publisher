@@ -1,0 +1,9 @@
+{
+  "name": "wallstreet-ai-publisher",
+  "version": "1.0.0",
+  "description": "AI Publisher for X",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
